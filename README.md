@@ -60,15 +60,7 @@ Possible models used:
 - F1 Score
 - Confusion Matrix
 
-## Project Structure
 
-Disease_Risk_Prediction/
-│
-├── 03_Disease_Risk_Prediction.ipynb
-├── diabetes.csv
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 ## How to Run
 
